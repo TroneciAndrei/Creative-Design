@@ -84,7 +84,7 @@ ul {
     color: #b25d74;
 }
 .main{
-    background: url(/img/bg.png)center center no-repeat;
+    background: url(../img/bg.png)center center no-repeat;
     background-size: cover;
     height: 80vh;
     margin-left: calc(-100vw / 2 + 1600px / 2);
@@ -464,7 +464,7 @@ Questions
       width: 33%;
   }
     .main{
-        background: url(/img/bg.png)center center no-repeat;
+        background: url(../img/bg.png)center center no-repeat;
         background-size: cover;
         margin-left: calc(-100vw / 2 + 350px / 2);
     margin-right: calc(-100vw / 2 + 350px / 2);
@@ -676,7 +676,7 @@ padding-bottom: 70px;
       width: 33%;
   }
     .main{
-        background: url(/img/bg.png)center center no-repeat;
+        background: url(../img/bg.png)center center no-repeat;
         background-size: cover;
         height: 80vh;
         margin-left: calc(-100vw / 2 + 500px / 2);
@@ -944,7 +944,7 @@ padding-bottom: 70px;
           padding: 10 20px;
       }
       .main{
-        background: url(/img/bg.png)center center no-repeat;
+        background: url(../img/bg.png)center center no-repeat;
         background-size: cover;
         height: 80vh;
         margin-left: calc(-100vw / 2 + 768px / 2);
@@ -1272,7 +1272,7 @@ padding-bottom: 70px;
         display: none;
     }
     .main{
-        background: url(/img/bg.png)center center no-repeat;
+        background: url(../img/bg.png)center center no-repeat;
         background-size: cover;
         height: 80vh;
         margin-left: calc(-100vw / 2 + 900px / 2);
@@ -1572,7 +1572,7 @@ padding-bottom: 70px;
             color: #b25d74;
         }
         .main{
-            background: url(/img/bg.png)center center no-repeat;
+            background: url(../img/bg.png)center center no-repeat;
             background-size: cover;
             height: 80vh;
             margin-left: calc(-100vw / 2 + 1440px / 2);
